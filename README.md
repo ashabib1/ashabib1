@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile.
 
+Check out my repositories on topics including Data Science, Data Analytics and Machine Learning.
+
+If you have any questions, please contact me at shabib.adnan1@gmail.com
+
 <!--
 **ashabib1/ashabib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
